@@ -1,0 +1,22 @@
+.container{
+  text-align: center;
+  background-color: green;
+    border-radius: 10px;
+    height: 100vh;
+    border: 12px;
+ 
+    
+}
+*{
+ 
+  margin: 0px;
+}
+
+.main{
+    margin: auto;
+    color: gray;
+    border: 10px;
+}
+table ,td,tr,button{
+  cursor: pointer;
+}
