@@ -1,9 +1,9 @@
 .container{
   text-align: center;
-  background-color: green;
+  background-color: blue;
     border-radius: 10px;
     height: 100vh;
-    border: 12px;
+    border: 11px;
  
     
 }
@@ -14,7 +14,7 @@
 
 .main{
     margin: auto;
-    color: gray;
+    color: blanchedalmond;
     border: 10px;
 }
 table ,td,tr,button{
